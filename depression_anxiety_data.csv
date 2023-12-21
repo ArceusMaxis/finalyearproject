@@ -1,0 +1,784 @@
+id,school_year,age,gender,bmi,who_bmi,phq_score,depression_severity,depressiveness,suicidal,depression_diagnosis,depression_treatment,gad_score,anxiety_severity,anxiousness,anxiety_diagnosis,anxiety_treatment,epworth_score,sleepiness
+1,1,14,male,33.33333333,Class I Obesity,9,Mild,0,0,0,0,11,Moderate,1,0,0,7,0
+2,1,18,male,19.84126984,Normal,8,Mild,0,0,0,0,5,Mild,0,0,0,14,1
+3,1,15,male,25.10239133,Overweight,8,Mild,0,0,0,0,6,Mild,0,0,0,6,0
+4,1,16,female,23.73866213,Normal,19,Moderately severe,1,1,0,0,15,Severe,1,0,0,11,1
+5,1,18,male,25.61728395,Overweight,6,Mild,0,0,0,0,14,Moderate,1,0,0,3,0
+6,1,15,male,22.12973973,Normal,3,None-minimal,0,0,0,0,2,None-minimal,0,0,0,2,0
+7,1,14,male,22.40878677,Normal,6,Mild,0,0,0,0,4,None-minimal,0,0,0,3,0
+8,1,18,male,20.4824761,Normal,4,None-minimal,0,0,0,0,9,Mild,0,0,0,5,0
+9,1,18,male,21.22788762,Normal,11,Moderate,1,0,0,0,8,Mild,0,0,0,7,0
+10,1,16,male,24.48979592,Normal,6,Mild,0,0,0,0,4,None-minimal,0,0,0,9,0
+11,1,14,male,23.12406059,Normal,2,None-minimal,0,0,0,0,2,None-minimal,0,0,0,4,0
+12,1,18,female,22.792369,Normal,8,Mild,0,0,0,0,4,None-minimal,0,0,0,7,0
+13,1,16,male,28.73192149,Overweight,9,Mild,0,0,0,0,4,None-minimal,0,0,0,9,0
+14,1,14,male,22.79032897,Normal,6,Mild,0,0,0,0,7,Mild,0,0,0,11,1
+15,1,18,male,22.83737024,Normal,10,Moderate,1,0,0,0,11,Moderate,1,0,0,1,0
+16,1,15,male,19.59183673,Normal,6,Mild,0,0,0,0,1,None-minimal,0,0,0,14,1
+17,1,16,female,22.10028959,Normal,7,Mild,0,0,0,0,12,Moderate,1,0,0,9,0
+18,1,14,female,24.03460984,Normal,8,Mild,0,0,0,0,8,Mild,0,0,0,1,0
+19,1,16,male,20.83070319,Normal,8,Mild,0,0,0,0,1,None-minimal,0,0,0,0,0
+20,1,18,male,27.33564014,Overweight,9,Mild,0,0,0,0,2,None-minimal,0,0,0,5,0
+21,1,15,male,20.74755019,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,1,0
+22,1,16,female,26.5625,Overweight,8,Mild,0,0,0,0,12,Moderate,1,0,0,14,1
+23,1,16,male,26.88093499,Overweight,14,Moderate,1,1,0,0,0,0,NA,0,0,8,0
+24,1,16,female,24.38652644,Normal,4,None-minimal,0,0,0,0,0,0,NA,0,0,4,0
+25,1,18,male,22.75830678,Normal,0,NA,NA,0,0,0,6,Mild,0,0,0,11,1
+26,1,17,male,23.98687034,Normal,4,None-minimal,0,0,0,0,2,None-minimal,0,0,0,4,0
+27,1,16,male,24.77591213,Normal,6,Mild,0,0,0,0,13,Moderate,1,0,0,5,0
+28,1,16,female,25,Normal,14,Moderate,1,1,0,1,15,Severe,1,1,1,14,1
+29,1,16,female,20.07733492,Normal,2,None-minimal,0,0,0,0,1,None-minimal,0,0,0,4,0
+30,1,14,female,21.60493827,Normal,2,None-minimal,0,0,0,0,0,None-minimal,0,0,0,NA,NA
+31,1,17,female,28.44444444,Overweight,15,Moderately severe,1,1,1,1,12,Moderate,1,1,1,8,0
+32,1,14,male,41.03826819,Class III Obesity,1,None-minimal,0,0,0,0,0,None-minimal,0,0,0,1,0
+33,1,14,male,24.21229339,Normal,3,None-minimal,0,0,0,0,2,None-minimal,0,0,0,4,0
+34,1,16,female,21.41094498,Normal,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,1,0
+35,1,17,male,29.32098765,Overweight,4,None-minimal,0,0,0,1,0,None-minimal,0,1,1,2,0
+36,1,18,male,23.24380165,Normal,7,Mild,0,0,0,0,3,None-minimal,0,0,0,7,0
+37,1,18,male,28.247696,Overweight,1,None-minimal,0,0,0,0,0,None-minimal,0,0,0,4,0
+38,1,17,male,22.28259211,Normal,9,Mild,0,0,0,0,3,None-minimal,0,0,0,3,0
+39,1,18,male,22.85714286,Normal,4,None-minimal,0,0,0,0,1,None-minimal,0,0,0,2,0
+40,1,14,male,20.57142857,Normal,0,NA,1,1,0,0,7,Mild,0,0,0,0,0
+41,1,17,male,22.67995241,Normal,2,None-minimal,0,0,0,0,3,None-minimal,0,0,0,6,0
+42,1,16,male,23.52941176,Normal,2,None-minimal,0,0,0,0,8,Mild,0,0,0,11,1
+43,1,16,female,27.51338489,Overweight,9,Mild,0,0,0,0,5,Mild,0,0,0,2,0
+44,1,16,male,23.51020408,Normal,6,Mild,0,0,0,0,17,Severe,1,0,0,2,0
+45,1,18,female,23.30668005,Normal,13,Moderate,1,0,0,0,7,Mild,0,0,0,4,0
+46,1,18,female,21.77843524,Normal,8,Mild,0,0,0,0,7,Mild,0,0,0,13,1
+47,1,14,female,21.77384236,Normal,12,Moderate,1,0,1,0,9,Mild,0,1,0,3,0
+48,1,15,male,23.30668005,Normal,4,None-minimal,0,0,0,0,2,None-minimal,0,0,0,3,0
+49,1,14,female,18.75,Normal,5,Mild,0,0,0,0,4,None-minimal,0,0,0,5,0
+50,1,16,female,19.43634597,Normal,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,2,0
+51,1,16,female,23.51020408,Normal,6,Mild,0,0,0,0,4,None-minimal,0,0,0,7,0
+52,1,16,male,20.66115702,Normal,2,None-minimal,0,0,0,0,3,None-minimal,0,0,0,7,0
+53,1,17,female,19.10009183,Normal,8,Mild,0,0,0,1,13,Moderate,1,0,0,13,1
+54,1,17,female,22.43230252,Normal,7,Mild,1,1,0,0,6,Mild,0,0,0,9,0
+55,1,18,female,21.77384236,Normal,6,Mild,0,0,0,0,5,Mild,0,0,0,11,1
+56,1,15,female,28.398718,Overweight,12,Moderate,1,0,1,0,11,Moderate,1,0,0,8,0
+57,1,14,male,18.25310979,Underweight,4,None-minimal,0,0,0,0,9,Mild,0,0,0,9,0
+58,1,18,female,27.21730295,Overweight,10,Moderate,1,0,0,0,13,Moderate,1,0,0,10,1
+59,1,14,female,20.83252961,Normal,8,Mild,0,0,0,0,3,None-minimal,0,0,0,8,0
+60,1,18,female,21.0076678,Normal,7,Mild,0,0,0,0,10,Moderate,1,1,0,9,0
+61,1,15,female,18.77834467,Normal,6,Mild,0,0,0,0,4,None-minimal,0,0,1,2,0
+62,1,14,female,17.77777778,Underweight,5,Mild,0,0,0,0,9,Mild,0,0,0,13,1
+63,1,14,female,19.22337562,Normal,8,Mild,0,0,0,0,9,Mild,0,1,0,0,0
+64,1,15,female,23.37257618,Normal,6,Mild,0,0,0,0,6,Mild,0,0,0,7,0
+65,1,17,male,23.95019768,Normal,4,None-minimal,0,0,1,1,8,Mild,0,1,1,4,0
+66,1,16,male,22.85714286,Normal,10,Moderate,1,0,0,0,12,Moderate,1,0,0,6,0
+67,1,18,female,18.31425598,Underweight,4,None-minimal,0,0,0,0,5,Mild,0,0,0,7,0
+68,1,17,male,51.89432429,Class III Obesity,10,Moderate,1,1,0,0,11,Moderate,1,0,0,4,0
+69,1,17,female,23.63403301,Normal,6,Mild,0,0,0,0,1,None-minimal,0,0,0,3,0
+70,1,15,female,22.58270917,Normal,11,Moderate,1,1,0,0,8,Mild,0,0,0,4,0
+71,1,15,female,54.55266812,Class III Obesity,8,Mild,0,0,0,0,6,Mild,0,0,0,13,1
+72,1,15,male,26.44628099,Overweight,5,Mild,0,0,0,0,4,None-minimal,0,0,0,1,0
+73,1,16,female,19.921875,Normal,10,Moderate,1,0,0,0,15,Severe,1,0,0,7,0
+74,1,15,male,23.1206236,Normal,4,None-minimal,0,0,0,0,3,None-minimal,0,0,0,6,0
+75,1,17,female,24.6097337,Normal,3,None-minimal,0,0,0,0,0,None-minimal,0,0,0,6,0
+76,1,15,male,31.91930799,Class I Obesity,20,Severe,1,1,0,0,9,Mild,0,0,0,4,0
+77,1,15,female,24.22145329,Normal,17,Moderately severe,1,0,0,0,5,Mild,0,0,0,10,1
+78,1,17,female,19.81405274,Normal,7,Mild,0,0,0,0,12,Moderate,1,0,0,13,1
+79,1,14,female,22.18934911,Normal,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,5,0
+80,1,14,male,24.8015873,Normal,9,Mild,0,0,0,0,10,Moderate,1,0,0,5,0
+81,1,16,female,20.70081674,Normal,4,None-minimal,0,0,0,0,6,Mild,0,0,0,8,0
+82,1,16,male,20.86111966,Normal,5,Mild,0,0,0,0,7,Mild,0,0,0,6,0
+83,1,14,female,26.48553975,Overweight,3,None-minimal,0,0,0,0,3,None-minimal,0,0,0,4,0
+84,1,18,female,36.43664485,Class II Obesity,9,Mild,0,0,0,0,10,Moderate,1,0,0,5,0
+85,1,17,female,19.83516296,Normal,4,None-minimal,0,0,0,0,5,Mild,0,0,0,5,0
+86,1,18,male,23.18367347,Normal,3,None-minimal,0,0,1,0,4,None-minimal,0,0,0,2,0
+87,1,18,male,20.51913409,Normal,10,Moderate,1,0,0,0,11,Moderate,1,0,0,7,0
+88,1,14,female,21.77384236,Normal,6,Mild,0,0,0,0,2,None-minimal,0,0,0,6,0
+89,1,17,female,26.43807082,Overweight,5,Mild,0,0,0,0,2,None-minimal,0,0,0,3,0
+90,1,18,male,19.13580247,Normal,14,Moderate,1,0,0,0,13,Moderate,1,0,0,8,0
+91,1,16,male,20.23355301,Normal,11,Moderate,1,1,0,0,12,Moderate,1,0,0,8,0
+92,1,15,female,25.52964487,Overweight,14,Moderate,1,0,0,0,15,Severe,1,0,0,9,0
+93,1,18,male,24.38237298,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,6,0
+94,1,16,female,25.82644628,Overweight,8,Mild,0,0,0,0,7,Mild,0,0,0,4,0
+95,1,18,female,24.1671624,Normal,5,Mild,0,0,0,0,11,Moderate,1,0,0,13,1
+96,1,17,female,33.21799308,Class I Obesity,4,None-minimal,0,0,0,0,3,None-minimal,0,0,0,2,0
+97,1,16,male,22.12973973,Normal,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,9,0
+98,1,18,female,25.63691716,Overweight,6,Mild,0,0,0,0,3,None-minimal,0,0,0,1,0
+99,1,16,female,23.4375,Normal,12,Moderate,1,0,0,0,5,Mild,0,0,0,12,1
+100,1,14,male,23.80869017,Normal,8,Mild,0,0,0,0,9,Mild,0,0,0,9,0
+101,1,17,male,27.42857143,Overweight,16,Moderately severe,1,0,1,0,13,Moderate,1,0,0,11,1
+102,1,18,male,20.90419501,Normal,5,Mild,0,0,0,0,7,Mild,0,0,0,3,0
+103,1,14,female,19.94805977,Normal,7,Mild,0,0,1,0,9,Mild,0,0,0,8,0
+104,1,15,male,29.3877551,Overweight,9,Mild,0,0,0,0,10,Moderate,1,0,0,7,0
+105,1,15,female,18.59012493,Normal,6,Mild,0,0,0,0,6,Mild,0,0,0,8,0
+106,1,17,male,22.72440348,Normal,8,Mild,0,0,0,0,7,Mild,0,0,0,13,1
+107,1,17,male,26.55596594,Overweight,5,Mild,0,0,0,0,4,None-minimal,0,0,0,2,0
+108,1,16,male,23.67125363,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,7,0
+109,1,15,female,19.09648548,Normal,5,Mild,0,0,0,0,2,None-minimal,0,0,0,4,0
+110,1,17,female,25.2825699,Overweight,11,Moderate,1,0,0,1,7,Mild,0,0,1,4,0
+111,1,16,male,21.26654064,Normal,2,None-minimal,0,0,0,0,1,None-minimal,0,0,0,2,0
+112,1,16,male,24.48979592,Normal,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,6,0
+113,1,14,female,33.62208773,Class I Obesity,8,Mild,0,0,0,0,14,Moderate,1,0,0,3,0
+114,1,17,male,25.18078512,Overweight,10,Moderate,1,1,0,0,7,Mild,0,0,0,2,0
+115,1,15,male,22.03856749,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,3,0
+116,1,16,female,25.91068435,Overweight,12,Moderate,1,0,0,0,15,Severe,1,0,0,3,0
+117,1,18,female,21.8299522,Normal,12,Moderate,1,0,0,0,13,Moderate,1,0,0,6,0
+118,1,17,female,21.04804761,Normal,8,Mild,0,0,0,0,4,None-minimal,0,0,0,9,0
+119,1,18,male,27.77670615,Overweight,7,Mild,0,0,0,0,5,Mild,0,0,0,7,0
+120,1,16,male,24.22145329,Normal,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,6,0
+121,1,17,female,18.75,Normal,8,Mild,0,0,0,0,8,Mild,0,0,0,13,1
+122,1,14,male,22.77318641,Normal,7,Mild,0,0,0,0,7,Mild,0,0,0,4,0
+123,1,17,female,24.05693475,Normal,9,Mild,0,0,0,0,15,Severe,1,0,0,13,1
+124,1,17,female,22.85714286,Normal,5,Mild,0,0,0,0,9,Mild,0,0,0,10,1
+125,1,17,female,19.95935549,Normal,7,Mild,0,0,0,0,7,Mild,0,0,0,10,1
+126,1,17,male,17.57706869,Underweight,18,Moderately severe,1,1,0,0,10,Moderate,1,0,0,8,0
+127,1,15,female,20.02884153,Normal,2,None-minimal,0,0,0,0,1,None-minimal,0,0,0,1,0
+128,1,18,male,0,Not Availble,8,Mild,0,0,0,0,6,Mild,0,0,0,6,0
+129,1,15,male,20.97117202,Normal,13,Moderate,1,0,0,0,19,Severe,1,0,0,11,1
+130,1,14,female,27.33564014,Overweight,17,Moderately severe,1,0,1,1,16,Severe,1,1,1,3,0
+131,1,16,female,21.2585034,Normal,11,Moderate,1,0,1,1,4,None-minimal,0,0,0,4,0
+132,1,17,male,30.24691358,Class I Obesity,10,Moderate,1,0,0,0,5,Mild,0,0,0,9,0
+133,1,18,male,24.21229339,Normal,0,none,0,0,0,0,2,None-minimal,0,0,0,7,0
+134,1,17,male,25.46198063,Overweight,7,Mild,0,0,0,0,9,Mild,0,0,0,6,0
+135,1,16,male,19.20415225,Normal,11,Moderate,1,0,1,1,2,None-minimal,0,1,1,9,0
+136,1,14,female,22.58270917,Normal,14,Moderate,1,0,0,0,2,None-minimal,0,0,0,6,0
+137,1,14,male,21.4532872,Normal,3,None-minimal,0,0,0,0,2,None-minimal,0,0,0,2,0
+138,1,15,female,25.82644628,Overweight,12,Moderate,1,0,0,0,17,Severe,1,0,0,8,0
+139,1,18,female,23.62444749,Normal,3,None-minimal,0,0,0,0,3,None-minimal,0,0,0,5,0
+140,1,18,female,25.0995016,Overweight,11,Moderate,1,0,0,0,21,Severe,1,0,0,9,0
+141,1,17,male,27.54820937,Overweight,6,Mild,0,0,0,0,2,None-minimal,0,0,0,5,0
+142,1,14,female,24.03460984,Normal,11,Moderate,1,1,0,0,11,Moderate,1,0,0,10,1
+143,1,14,female,19.48696145,Normal,12,Moderate,1,0,0,0,16,Severe,1,1,1,8,0
+144,1,16,male,25.82644628,Overweight,5,Mild,0,0,0,0,5,Mild,0,0,0,5,0
+145,1,17,female,23.87511478,Normal,5,Mild,0,0,0,0,12,Moderate,1,0,0,9,0
+146,1,18,female,28.04037814,Overweight,13,Moderate,1,0,0,0,16,Severe,1,0,0,14,1
+147,1,14,male,24.6097337,Normal,13,Moderate,1,0,0,0,11,Moderate,1,0,0,14,1
+148,1,17,female,19.72386588,Normal,10,Moderate,1,0,0,0,12,Moderate,1,0,0,5,0
+149,1,18,male,21.2244898,Normal,4,None-minimal,0,0,0,0,7,Mild,0,0,0,9,0
+150,1,15,female,20.76124567,Normal,5,Mild,0,0,0,0,3,None-minimal,0,0,0,5,0
+151,1,17,male,24.45356841,Normal,3,None-minimal,0,0,0,0,3,None-minimal,0,0,0,3,0
+152,1,18,female,19.00390835,Normal,20,Severe,1,1,0,0,18,Severe,1,0,0,7,0
+153,1,16,male,21.9138057,Normal,6,Mild,0,0,0,0,4,None-minimal,0,0,0,2,0
+154,1,14,female,20.83252961,Normal,10,Moderate,1,1,0,0,9,Mild,0,1,1,6,0
+155,1,18,female,20.81165453,Normal,13,Moderate,1,0,0,0,11,Moderate,1,0,0,5,0
+156,1,15,female,17.62538055,Underweight,2,None-minimal,0,0,0,0,7,Mild,0,0,0,4,0
+157,1,14,female,19.60715661,Normal,7,Mild,0,0,0,0,4,None-minimal,0,0,0,4,0
+158,1,14,male,0,Not Availble,2,None-minimal,0,0,0,0,1,None-minimal,0,0,0,7,0
+159,1,15,male,27.47252747,Overweight,18,Moderately severe,1,0,1,1,19,Severe,1,1,1,9,0
+160,1,16,female,32.11195241,Class I Obesity,9,Mild,0,0,0,0,3,None-minimal,0,0,0,8,0
+161,1,18,male,24.22145329,Normal,5,Mild,0,0,0,0,6,Mild,0,0,0,0,0
+162,1,17,female,27.6816609,Overweight,5,Mild,0,0,0,0,4,None-minimal,0,0,0,2,0
+163,1,15,male,27.16691927,Overweight,7,Mild,0,0,0,0,4,None-minimal,0,0,0,11,1
+164,1,18,female,21.2585034,Normal,4,None-minimal,0,0,0,0,5,Mild,0,0,0,8,0
+165,1,14,male,20.61925365,Normal,19,Moderately severe,1,0,0,0,11,Moderate,1,0,0,1,0
+166,1,18,female,23.03004535,Normal,2,None-minimal,0,0,0,0,8,Mild,0,0,0,9,0
+167,1,18,male,28.08988764,Overweight,2,None-minimal,0,0,0,0,1,None-minimal,0,0,0,NA,NA
+168,1,18,male,21.51385851,Normal,10,Moderate,1,1,0,1,9,Mild,0,0,1,12,1
+169,1,18,female,19.94805977,Normal,4,None-minimal,0,0,0,0,5,Mild,0,0,0,NA,NA
+170,1,18,female,23.05175491,Normal,4,None-minimal,0,0,0,0,8,Mild,0,0,0,6,0
+171,1,16,male,21.97133586,Normal,7,Mild,0,0,0,0,5,Mild,0,0,0,1,0
+172,1,14,female,32.9476584,Class I Obesity,5,Mild,0,0,0,0,12,Moderate,1,0,0,3,0
+173,1,16,female,21.30394858,Normal,7,Mild,0,0,0,0,3,None-minimal,0,0,0,7,0
+174,1,18,female,15.41826527,Underweight,3,None-minimal,0,0,0,0,13,Moderate,1,0,0,10,1
+175,1,18,male,24.81481481,Normal,11,Moderate,1,0,0,0,10,Moderate,1,0,0,8,0
+176,1,15,male,23.24380165,Normal,5,Mild,0,0,0,0,3,None-minimal,0,0,0,4,0
+177,1,18,male,20.41522491,Normal,13,Moderate,1,0,0,0,15,Severe,1,0,0,9,0
+178,1,18,male,29.83940972,Overweight,10,Moderate,1,1,1,1,11,Moderate,1,1,1,7,0
+179,1,17,male,24.67550027,Normal,1,None-minimal,0,0,0,0,0,None-minimal,0,0,0,6,0
+180,1,15,female,19.60715661,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,4,0
+181,1,15,male,27.77777778,Overweight,1,None-minimal,0,0,0,0,3,None-minimal,0,0,0,6,0
+182,1,14,male,29.536862,Overweight,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,3,0
+183,1,18,female,20.70081674,Normal,7,Mild,0,0,0,0,8,Mild,0,0,0,5,0
+184,1,18,male,24.22145329,Normal,6,Mild,0,0,0,0,11,Moderate,1,1,1,5,0
+185,1,15,male,25.2493372,Overweight,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,2,0
+186,1,17,female,21.63114885,Normal,7,Mild,0,0,0,0,7,Mild,0,0,0,10,1
+187,1,18,male,20.52892163,Normal,5,Mild,0,0,0,0,5,Mild,0,0,0,0,0
+188,1,16,female,23.87511478,Normal,10,Moderate,1,0,0,0,17,Severe,1,0,0,7,0
+189,1,15,female,25.96454217,Overweight,17,Moderately severe,1,0,0,0,14,Moderate,1,0,0,5,0
+190,1,16,male,34.89439853,Class I Obesity,2,None-minimal,0,0,0,0,6,Mild,0,0,0,4,0
+191,1,18,male,22.53061224,Normal,17,Moderately severe,1,1,0,0,7,Mild,0,0,0,3,0
+192,1,16,male,30.47796622,Class I Obesity,6,Mild,0,0,0,0,5,Mild,0,0,0,8,0
+193,1,17,female,25.90945695,Overweight,7,Mild,0,0,0,0,4,None-minimal,0,0,0,8,0
+194,1,15,female,26.66666667,Overweight,14,Moderate,1,0,0,0,21,Severe,1,0,0,14,1
+195,1,14,female,27.63605442,Overweight,9,Mild,0,0,0,0,10,Moderate,1,1,0,8,0
+196,1,17,female,22.75830678,Normal,12,Moderate,1,0,0,0,9,Mild,0,0,0,13,1
+197,1,17,female,24.50894577,Normal,16,Moderately severe,1,0,0,0,13,Moderate,1,0,0,10,1
+198,1,15,female,23.49523687,Normal,5,Mild,0,0,0,0,4,None-minimal,0,0,0,5,0
+199,1,16,female,25.31545429,Overweight,7,Mild,0,0,0,0,16,Severe,1,0,0,12,1
+200,1,16,female,19.1953028,Normal,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,7,0
+201,1,17,male,29.0687733,Overweight,6,Mild,0,0,0,0,9,Mild,0,0,0,9,0
+202,1,14,male,25.43268596,Overweight,10,Moderate,1,0,0,0,12,Moderate,1,0,0,8,0
+203,1,16,female,30.44982699,Class I Obesity,14,Moderate,1,0,0,0,12,Moderate,1,0,0,8,0
+204,1,14,female,20.06920415,Normal,3,None-minimal,0,0,0,0,1,None-minimal,0,0,0,6,0
+205,1,18,female,16.34527089,Underweight,18,Moderately severe,1,0,1,1,17,Severe,1,1,1,4,0
+206,1,16,female,26.07897153,Overweight,19,Moderately severe,1,1,0,0,16,Severe,1,0,0,12,1
+207,1,17,female,25.20920136,Overweight,10,Moderate,1,0,1,1,9,Mild,0,0,0,6,0
+208,1,17,male,22.98190175,Normal,9,Mild,0,0,0,0,8,Mild,0,0,0,12,1
+209,1,14,male,24.89706023,Normal,15,Moderately severe,1,0,0,1,5,Mild,0,0,0,1,0
+210,1,18,male,32.69054178,Class I Obesity,4,None-minimal,0,0,0,0,3,None-minimal,0,0,0,5,0
+211,1,15,male,23.58832922,Normal,4,None-minimal,0,0,0,0,1,None-minimal,0,0,0,4,0
+212,1,14,male,19.95728441,Normal,3,None-minimal,0,0,0,0,3,None-minimal,0,0,0,4,0
+213,1,17,male,23.12406059,Normal,5,Mild,0,0,0,1,9,Mild,0,1,1,6,0
+214,1,17,female,20.504934,Normal,7,Mild,0,0,0,0,6,Mild,0,0,0,4,0
+215,1,15,male,16.70620468,Underweight,6,Mild,0,0,0,0,8,Mild,0,0,0,4,0
+216,1,17,male,28.7037037,Overweight,7,Mild,0,0,1,1,4,None-minimal,0,1,1,7,0
+217,1,18,male,26.21882086,Overweight,23,Severe,1,1,1,1,2,None-minimal,0,1,1,11,1
+218,1,16,male,25.10239133,Overweight,3,None-minimal,0,0,1,1,5,Mild,0,0,0,3,0
+219,1,17,male,20.90238586,Normal,0,none,0,0,0,0,0,None-minimal,0,0,0,7,0
+220,1,14,male,21.67211013,Normal,3,None-minimal,0,0,0,0,2,None-minimal,0,0,0,3,0
+221,1,14,female,34.0490306,Class I Obesity,8,Mild,1,1,0,0,10,Moderate,1,0,0,7,0
+222,1,17,female,24.15881797,Normal,5,Mild,0,0,0,1,6,Mild,0,0,1,6,0
+223,1,18,female,22.20633069,Normal,8,Mild,0,0,0,0,8,Mild,0,0,0,NA,NA
+224,1,16,female,23.63403301,Normal,7,Mild,0,0,0,0,11,Moderate,1,0,0,6,0
+225,1,17,female,22.86236854,Normal,2,None-minimal,0,0,0,0,3,None-minimal,0,0,0,4,0
+226,1,14,female,19.94805977,Normal,6,Mild,0,0,0,0,9,Mild,0,1,0,4,0
+227,1,17,male,35.67181926,Class II Obesity,24,Severe,1,1,0,0,15,Severe,1,0,0,18,1
+228,1,17,female,27.16049383,Overweight,7,Mild,0,0,0,0,6,Mild,0,0,1,3,0
+229,1,15,female,22.32142857,Normal,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,6,0
+230,1,15,female,23.4375,Normal,10,Moderate,1,1,0,0,8,Mild,0,0,1,17,1
+231,1,18,female,21.63114885,Normal,3,None-minimal,0,0,0,0,3,None-minimal,0,0,1,4,0
+232,1,18,male,21.60493827,Normal,3,None-minimal,0,0,0,0,5,Mild,0,0,0,7,0
+233,1,15,male,24.74274483,Normal,21,Severe,1,1,0,0,16,Severe,1,0,0,13,1
+234,1,17,female,19.83471074,Normal,5,Mild,0,0,0,0,16,Severe,1,0,0,7,0
+235,1,14,male,34.28571429,Class I Obesity,16,Moderately severe,1,1,0,0,19,Severe,1,0,0,7,0
+236,1,14,female,22.86236854,Normal,15,Moderately severe,1,1,0,0,16,Severe,1,0,0,13,1
+237,1,16,male,21.13271344,Normal,10,Moderate,1,0,1,1,10,Moderate,1,1,0,3,0
+238,1,18,female,26.25958475,Overweight,14,Moderate,1,0,0,0,5,Mild,0,0,0,2,0
+239,1,16,female,19.81784449,Normal,10,Moderate,1,0,1,1,8,Mild,0,1,1,9,0
+240,1,15,female,26.70940171,Overweight,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,4,0
+241,1,16,female,29.296875,Overweight,23,Severe,1,1,0,0,20,Severe,1,0,0,13,1
+242,1,14,female,27.23922448,Overweight,10,Moderate,1,0,0,0,17,Severe,1,0,0,11,1
+243,1,17,female,25.47666009,Overweight,5,Mild,0,0,0,0,9,Mild,0,0,1,6,0
+244,1,16,male,32.84660635,Class I Obesity,3,None-minimal,0,0,0,0,2,None-minimal,0,0,0,4,0
+245,1,16,female,18.42403628,Underweight,24,Severe,1,1,1,1,21,Severe,1,0,0,5,0
+246,1,17,male,23.4375,Normal,2,None-minimal,0,0,0,0,4,None-minimal,0,0,0,7,0
+247,1,16,male,23.93948099,Normal,4,None-minimal,0,0,0,0,2,None-minimal,0,0,0,11,1
+248,1,14,female,21.79930796,Normal,8,Mild,0,0,1,1,7,Mild,0,0,0,5,0
+249,1,18,female,17.85651763,Underweight,8,Mild,0,0,0,0,8,Mild,0,0,0,4,0
+250,1,15,female,20.07960128,Normal,4,None-minimal,0,0,0,0,14,Moderate,1,0,0,3,0
+251,1,16,female,25.21735858,Overweight,8,Mild,0,0,0,0,10,Moderate,1,0,0,9,0
+252,1,14,male,23.12406059,Normal,11,Moderate,1,0,1,0,14,Moderate,1,0,0,4,0
+253,1,15,female,19.37716263,Normal,5,Mild,0,0,1,0,3,None-minimal,0,0,0,6,0
+254,1,14,female,19.57168128,Normal,4,None-minimal,0,0,1,1,6,Mild,0,0,0,12,1
+255,1,17,female,19.72386588,Normal,9,Mild,0,0,0,0,9,Mild,0,0,0,8,0
+256,1,16,female,20.76124567,Normal,11,Moderate,1,0,1,1,17,Severe,1,0,0,8,0
+257,1,16,female,21.10726644,Normal,3,None-minimal,0,0,0,0,1,None-minimal,0,0,0,3,0
+258,1,18,female,24.8015873,Normal,4,None-minimal,0,0,0,0,6,Mild,0,0,0,5,0
+259,1,18,male,19.72318339,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,3,0
+260,1,15,male,21.97133586,Normal,8,Mild,0,0,0,0,7,Mild,0,0,1,8,0
+261,1,17,female,22.32891328,Normal,10,Moderate,1,0,1,0,5,Mild,0,0,0,4,0
+262,1,14,male,21.43460935,Normal,14,Moderate,1,0,0,0,10,Moderate,1,0,0,4,0
+263,1,17,female,18.21832243,Underweight,2,None-minimal,0,0,0,0,2,None-minimal,0,0,0,7,0
+264,1,18,female,26.2226847,Overweight,10,Moderate,1,0,1,0,14,Moderate,1,1,0,7,0
+265,1,14,female,22.18934911,Normal,5,Mild,0,0,0,0,2,None-minimal,0,0,0,7,0
+266,1,16,male,25.71219869,Overweight,17,Moderately severe,1,0,0,0,14,Moderate,1,0,0,14,1
+267,1,14,male,20.00656932,Normal,6,Mild,0,0,0,0,6,Mild,0,0,0,7,0
+268,1,17,male,24.69135802,Normal,4,None-minimal,0,0,1,1,1,None-minimal,0,1,1,6,0
+269,1,15,male,25.28721121,Overweight,7,Mild,0,0,0,0,2,None-minimal,0,0,0,8,0
+270,1,18,male,23.62028791,Normal,4,None-minimal,0,0,0,0,1,None-minimal,0,0,0,8,0
+271,1,15,male,26.2345679,Overweight,5,Mild,0,0,0,0,3,None-minimal,0,0,0,5,0
+272,1,18,female,32.05128205,Class I Obesity,5,Mild,0,0,0,0,7,Mild,0,0,0,4,0
+273,1,17,female,19.921875,Normal,8,Mild,0,0,1,1,8,Mild,0,0,0,7,0
+274,1,16,female,26.29757785,Overweight,9,Mild,0,0,0,0,7,Mild,0,0,0,9,0
+275,1,15,male,25.53544639,Overweight,6,Mild,0,0,0,0,0,None-minimal,0,0,0,5,0
+276,2,14,male,21.15885417,Normal,17,Moderately severe,1,1,0,0,21,Severe,1,0,0,8,0
+277,2,15,female,22.18934911,Normal,6,Mild,0,0,0,0,6,Mild,0,0,0,3,0
+278,2,18,male,22.99168975,Normal,3,None-minimal,0,0,0,0,8,Mild,0,0,0,6,0
+279,2,18,female,19.37716263,Normal,9,Mild,0,0,0,0,9,Mild,0,0,0,1,0
+280,2,16,male,22.72440348,Normal,8,Mild,0,0,0,0,6,Mild,0,0,0,6,0
+281,2,16,male,26.88172043,Overweight,8,Mild,0,0,0,0,7,Mild,0,0,0,10,1
+282,2,18,female,22.86253448,Normal,8,Mild,0,0,0,0,14,Moderate,1,0,0,12,1
+283,2,17,female,22.64737696,Normal,5,Mild,0,0,0,0,6,Mild,0,0,0,10,1
+284,2,18,female,22.03172568,Normal,4,None-minimal,0,0,0,0,3,None-minimal,0,0,0,10,1
+285,2,16,male,29.0687733,Overweight,12,Moderate,1,0,0,0,3,None-minimal,0,0,0,5,0
+286,2,17,male,24.25867407,Normal,7,Mild,0,0,0,0,3,None-minimal,0,0,0,11,1
+287,2,14,male,19.94321255,Normal,8,Mild,0,0,0,0,1,None-minimal,0,0,0,2,0
+288,2,14,female,41.40163348,Class III Obesity,10,Moderate,1,1,0,0,9,Mild,0,0,0,11,1
+289,2,15,female,21.2585034,Normal,15,Moderately severe,1,1,0,0,18,Severe,1,0,0,18,1
+290,2,17,female,26.70940171,Overweight,11,Moderate,1,0,0,0,13,Moderate,1,0,0,9,0
+291,2,18,female,33.05785124,Class I Obesity,12,Moderate,1,0,0,0,8,Mild,0,NA,0,6,0
+292,2,14,female,23.52941176,Normal,19,Moderately severe,1,0,0,0,21,Severe,1,0,0,15,1
+293,2,18,female,27.30996814,Overweight,8,Mild,0,0,1,0,6,Mild,0,0,0,4,0
+294,2,16,female,27.88761707,Overweight,17,Moderately severe,1,0,0,0,15,Severe,1,0,0,14,1
+295,2,15,male,25.390625,Overweight,8,Mild,0,0,0,0,3,None-minimal,0,0,0,7,0
+296,2,16,male,21.73650525,Normal,4,None-minimal,1,1,1,0,7,Mild,0,0,0,0,0
+297,2,14,female,23.4375,Normal,4,None-minimal,0,0,0,0,8,Mild,0,0,0,7,0
+298,2,15,male,23.14814815,Normal,7,Mild,1,1,0,NA,5,Mild,0,0,0,8,0
+299,2,16,female,16.89623508,Underweight,24,Severe,1,0,0,0,19,Severe,1,0,0,11,1
+300,2,16,female,18.90359168,Normal,2,None-minimal,0,0,1,1,7,Mild,0,1,1,5,0
+301,2,15,male,22.54595907,Normal,7,Mild,0,0,0,0,14,Moderate,1,0,0,11,1
+302,2,15,female,20.07733492,Normal,10,Moderate,1,1,0,0,10,Moderate,1,0,0,14,1
+303,2,18,male,21.97735112,Normal,8,Mild,0,0,0,0,7,Mild,0,0,0,4,0
+304,2,15,female,18.359375,Underweight,12,Moderate,1,0,0,0,9,Mild,0,0,0,6,0
+305,2,14,male,22.85714286,Normal,16,Moderately severe,1,0,0,0,17,Severe,1,0,0,6,0
+306,2,15,male,22.22906193,Normal,7,Mild,0,0,0,0,4,None-minimal,0,0,0,3,0
+307,2,16,female,19.48696145,Normal,16,Moderately severe,1,1,0,0,16,Severe,1,0,0,11,1
+308,2,18,female,24.00548697,Normal,10,Moderate,1,0,0,0,7,Mild,0,0,0,4,0
+309,2,14,female,22.94213045,Normal,13,Moderate,1,0,0,0,13,Moderate,1,0,0,8,0
+310,2,18,female,18.33910035,Underweight,7,Mild,0,0,0,0,16,Severe,1,0,0,6,0
+311,2,16,male,26.85185185,Overweight,2,None-minimal,0,0,0,0,5,Mild,0,0,0,9,0
+312,2,17,female,23.05175491,Normal,12,Moderate,1,0,0,0,8,Mild,0,0,0,18,1
+313,2,14,female,19.05197378,Normal,11,Moderate,1,0,0,0,10,Moderate,1,0,0,10,1
+314,2,15,female,20.95717116,Normal,8,Mild,0,0,0,0,13,Moderate,1,0,0,6,0
+315,2,16,male,22.03856749,Normal,8,Mild,0,0,0,0,17,Severe,1,0,0,8,0
+316,2,18,female,23.61275089,Normal,11,Moderate,1,0,0,0,19,Severe,1,0,0,2,0
+317,2,15,female,21.71925011,Normal,14,Moderate,1,1,0,0,18,Severe,1,0,0,4,0
+318,2,18,female,19.46740129,Normal,16,Moderately severe,1,1,0,0,8,Mild,0,0,0,11,1
+319,2,18,female,25.76298058,Overweight,4,None-minimal,0,0,0,0,3,None-minimal,0,0,0,1,0
+320,2,16,male,25.64891762,Overweight,10,Moderate,1,0,0,0,12,Moderate,1,0,0,6,0
+321,2,18,male,25.61728395,Overweight,4,None-minimal,0,0,0,0,0,None-minimal,0,0,0,2,0
+322,2,15,male,20.56932966,Normal,5,Mild,0,0,0,0,7,Mild,0,0,0,10,1
+323,2,17,female,21.75546853,Normal,11,Moderate,1,0,0,0,6,Mild,0,0,1,11,1
+324,2,15,female,29.06060712,Overweight,8,Mild,0,0,0,0,10,Moderate,1,0,0,4,0
+325,2,16,female,21.93634741,Normal,5,Mild,0,0,0,0,9,Mild,0,0,0,4,0
+326,2,16,male,23.52941176,Normal,10,Moderate,1,0,0,0,6,Mild,0,0,0,3,0
+327,2,16,male,20.79672989,Normal,10,Moderate,1,0,0,0,4,None-minimal,0,0,0,7,0
+328,2,18,female,23.8330046,Normal,8,Mild,0,0,0,0,7,Mild,0,0,0,7,0
+329,2,18,male,23.44934084,Normal,11,Moderate,1,0,0,0,8,Mild,0,0,0,13,1
+330,2,14,male,21.0076678,Normal,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,10,1
+331,2,17,female,21.96712018,Normal,10,Moderate,1,0,0,0,11,Moderate,1,0,0,8,0
+332,2,18,male,22.72440348,Normal,3,None-minimal,0,0,0,0,1,None-minimal,0,0,0,3,0
+333,2,18,female,23.23345618,Normal,6,Mild,0,0,0,0,7,Mild,0,0,0,2,0
+334,2,14,male,22.46003435,Normal,4,None-minimal,0,0,0,0,10,Moderate,1,0,0,0,0
+335,2,14,male,0,Not Availble,3,None-minimal,0,0,0,0,0,None-minimal,0,0,0,7,0
+336,2,16,male,20.74755019,Normal,9,Mild,0,0,0,0,5,Mild,0,0,0,1,0
+337,2,16,female,21.51142659,Normal,6,Mild,0,0,0,0,10,Moderate,1,0,0,4,0
+338,2,16,female,21.3577956,Normal,6,Mild,0,0,0,0,7,Mild,0,0,1,3,0
+339,2,18,female,20.9572742,Normal,4,None-minimal,0,0,0,0,8,Mild,0,0,0,9,0
+340,2,18,male,21.63331531,Normal,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,2,0
+341,2,14,male,25.68956193,Overweight,7,Mild,0,0,0,0,3,None-minimal,0,0,0,10,1
+342,2,15,female,20.2020202,Normal,23,Severe,1,0,0,0,13,Moderate,1,0,0,14,1
+343,2,16,male,20.76124567,Normal,7,Mild,0,0,0,0,5,Mild,0,0,0,4,0
+344,2,16,male,24.96494648,Normal,6,Mild,0,0,0,0,3,None-minimal,0,0,0,9,0
+345,2,15,male,35.91836735,Class II Obesity,11,Moderate,1,0,0,0,5,Mild,0,0,0,8,0
+346,2,15,male,24.22145329,Normal,11,Moderate,1,0,0,0,10,Moderate,1,0,0,6,0
+347,2,16,female,28.30385016,Overweight,6,Mild,1,1,0,0,3,None-minimal,0,0,0,4,0
+348,2,16,female,22.02432251,Normal,9,Mild,0,0,0,0,4,None-minimal,0,0,0,12,1
+349,2,14,male,25.46938776,Overweight,12,Moderate,1,0,0,0,9,Mild,0,0,0,7,0
+350,2,16,female,19.77769867,Normal,8,Mild,0,0,0,0,11,Moderate,1,0,0,6,0
+351,2,18,female,17.92821543,Underweight,7,Mild,0,0,0,0,10,Moderate,1,0,0,8,0
+352,2,15,male,17.7221172,Underweight,6,Mild,0,0,0,0,10,Moderate,1,0,0,5,0
+353,2,18,male,23.12406059,Normal,5,Mild,0,0,0,0,2,None-minimal,0,0,0,2,0
+354,2,15,male,22.49134948,Normal,11,Moderate,1,0,0,0,13,Moderate,1,0,0,9,0
+355,2,16,male,23.98687034,Normal,3,None-minimal,0,0,0,0,2,None-minimal,0,0,0,11,1
+356,2,16,female,24.45606342,Normal,7,Mild,0,0,0,0,16,Severe,1,0,0,14,1
+357,2,16,male,27.17063157,Overweight,8,Mild,0,0,0,0,6,Mild,0,0,0,1,0
+358,2,17,male,23.56663223,Normal,6,Mild,0,0,0,0,7,Mild,0,0,0,9,0
+359,2,17,male,28.982007,Overweight,7,Mild,0,0,0,1,15,Severe,1,0,0,7,0
+360,2,17,female,22.03856749,Normal,7,Mild,0,0,0,0,6,Mild,0,0,0,5,0
+361,2,17,male,23.37472608,Normal,5,Mild,0,0,0,0,3,None-minimal,0,0,0,6,0
+362,2,15,female,24.6097337,Normal,9,Mild,0,0,0,0,8,Mild,0,0,0,4,0
+363,2,14,male,21.38099285,Normal,11,Moderate,1,0,0,0,7,Mild,0,0,0,8,0
+364,2,17,female,33.9100346,Class I Obesity,15,Moderately severe,1,1,0,0,16,Severe,1,0,0,8,0
+365,2,16,female,20.703125,Normal,11,Moderate,1,0,0,0,12,Moderate,1,0,0,9,0
+366,2,17,male,23.56663223,Normal,3,None-minimal,0,0,0,0,8,Mild,0,0,0,5,0
+367,2,14,male,38.78116343,Class II Obesity,13,Moderate,1,0,0,0,9,Mild,0,1,1,2,0
+368,2,17,male,22.28259211,Normal,7,Mild,0,0,0,0,12,Moderate,1,0,0,6,0
+369,2,15,female,18.49649888,Underweight,7,Mild,0,0,0,0,2,None-minimal,0,0,0,8,0
+370,2,18,male,25.21735858,Overweight,4,None-minimal,0,0,0,0,6,Mild,0,0,0,3,0
+371,2,14,female,23.01117686,Normal,4,None-minimal,0,0,0,0,2,None-minimal,0,0,0,5,0
+372,2,18,male,24.67550027,Normal,5,Mild,0,0,0,0,3,None-minimal,0,0,0,7,0
+373,2,17,female,23.30905307,Normal,5,Mild,0,0,0,0,4,None-minimal,0,0,0,4,0
+374,2,14,female,22.50692521,Normal,9,Mild,0,0,0,0,9,Mild,0,0,0,7,0
+375,2,15,male,31.45643284,Class I Obesity,3,None-minimal,0,0,0,0,3,None-minimal,0,0,0,3,0
+376,2,18,male,19.72103697,Normal,10,Moderate,1,1,0,0,11,Moderate,1,0,0,12,1
+377,2,16,male,25.59220998,Overweight,6,Mild,0,0,0,0,8,Mild,0,0,0,8,0
+378,2,16,female,20.56932966,Normal,14,Moderate,1,0,0,0,15,Severe,1,0,0,11,1
+379,2,15,female,18.96192742,Normal,5,Mild,0,0,0,0,5,Mild,0,0,0,3,0
+380,2,17,male,24.48565201,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,3,0
+381,2,15,male,22.12973973,Normal,3,None-minimal,0,0,0,0,5,Mild,0,0,0,6,0
+382,2,17,female,22.93975069,Normal,7,Mild,0,0,0,NA,0,0,NA,NA,NA,NA,NA
+383,2,15,female,19.6282647,Normal,11,Moderate,1,0,0,0,16,Severe,1,0,0,9,0
+384,2,15,male,25.55932916,Overweight,4,None-minimal,0,0,0,0,3,None-minimal,0,0,0,6,0
+385,2,17,male,20.90419501,Normal,4,None-minimal,0,0,0,0,2,None-minimal,0,0,0,3,0
+386,2,15,female,17.578125,Underweight,3,None-minimal,0,0,0,0,9,Mild,0,0,0,3,0
+387,2,16,female,18.5546875,Normal,9,Mild,0,0,0,0,11,Moderate,1,0,0,12,1
+388,2,17,female,20.32443826,Normal,12,Moderate,1,0,0,0,20,Severe,1,0,0,17,1
+389,2,15,female,16.60899654,Underweight,6,Mild,0,0,0,0,10,Moderate,1,0,0,5,0
+390,2,14,female,39.0625,Class II Obesity,18,Moderately severe,1,1,0,0,19,Severe,1,0,0,18,1
+391,2,14,female,19.15119182,Normal,5,Mild,0,0,0,0,3,None-minimal,0,0,0,2,0
+392,2,16,male,22.85714286,Normal,9,Mild,0,0,0,0,8,Mild,0,0,0,6,0
+393,2,17,male,24.22145329,Normal,0,NA,NA,0,0,0,6,Mild,0,0,0,7,0
+394,2,16,female,19.48738275,Normal,5,Mild,0,0,0,0,7,Mild,0,0,0,6,0
+395,2,17,female,18.75,Normal,11,Moderate,1,0,0,0,0,None-minimal,0,0,0,0,0
+396,2,15,male,26.29757785,Overweight,6,Mild,0,0,0,0,6,Mild,0,0,0,1,0
+397,2,16,male,24.15881797,Normal,7,Mild,0,0,0,0,7,Mild,0,0,0,1,0
+398,2,17,male,25.53544639,Overweight,8,Mild,0,0,0,0,6,Mild,0,0,0,4,0
+399,2,14,female,17.14677641,Underweight,8,Mild,0,0,0,0,9,Mild,0,1,0,16,1
+400,2,18,female,24.67105263,Normal,4,None-minimal,0,0,0,0,2,None-minimal,0,0,0,1,0
+401,2,17,female,25.6311675,Overweight,8,Mild,0,0,0,0,17,Severe,1,0,0,7,0
+402,2,16,male,30.47796622,Class I Obesity,9,Mild,1,1,0,0,7,Mild,0,0,0,8,0
+403,2,18,female,19.70553242,Normal,5,Mild,0,0,0,0,8,Mild,0,0,0,3,0
+404,2,18,male,24.22145329,Normal,4,None-minimal,0,0,0,0,2,None-minimal,0,0,0,3,0
+405,2,16,male,19.68459483,Normal,8,Mild,1,1,1,0,7,Mild,0,1,0,1,0
+406,2,17,female,22.48132907,Normal,11,Moderate,1,1,0,0,0,0,NA,0,1,0,0
+407,2,16,male,26.57589059,Overweight,4,None-minimal,0,0,0,0,6,Mild,0,0,0,3,0
+408,2,17,female,33.05785124,Class I Obesity,20,Severe,1,0,0,0,16,Severe,1,0,0,31,1
+409,2,18,female,19.70553242,Normal,9,Mild,0,0,0,0,9,Mild,0,0,0,11,1
+410,2,17,female,23.4375,Normal,7,Mild,0,0,1,1,4,None-minimal,0,0,0,4,0
+411,2,15,female,21.75546853,Normal,8,Mild,0,0,0,0,7,Mild,0,0,0,3,0
+412,2,14,male,21.60493827,Normal,6,Mild,0,0,0,0,6,Mild,0,0,0,5,0
+413,2,17,male,22.85714286,Normal,4,None-minimal,0,0,0,0,3,None-minimal,0,0,0,2,0
+414,2,14,male,28.40054796,Overweight,6,Mild,0,0,0,0,4,None-minimal,0,0,0,7,0
+415,2,16,male,24.69135802,Normal,6,Mild,0,0,0,0,2,None-minimal,0,0,0,0,0
+416,2,16,male,21.14631991,Normal,7,Mild,0,0,0,0,11,Moderate,1,0,0,8,0
+417,2,18,male,33.80205516,Class I Obesity,8,Mild,0,0,0,0,9,Mild,0,0,0,9,0
+418,2,14,male,25.01352082,Overweight,5,Mild,0,0,0,1,5,Mild,0,0,1,6,0
+419,2,14,male,30.86419753,Class I Obesity,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,6,0
+420,2,17,male,22.16066482,Normal,6,Mild,0,0,0,0,7,Mild,0,0,0,17,1
+421,2,15,male,26.61934339,Overweight,10,Moderate,1,1,0,0,4,None-minimal,0,0,0,7,0
+422,2,14,male,19.25261962,Normal,18,Moderately severe,1,0,0,0,14,Moderate,1,0,0,24,1
+423,2,18,male,20.38156971,Normal,17,Moderately severe,1,0,0,0,9,Mild,0,0,0,7,0
+424,2,15,male,24.69135802,Normal,5,Mild,0,0,0,0,2,None-minimal,0,0,0,5,0
+425,2,14,female,20.76124567,Normal,8,Mild,0,0,0,0,13,Moderate,1,0,0,4,0
+426,2,16,male,25.46938776,Overweight,5,Mild,0,0,0,0,1,None-minimal,0,0,0,8,0
+427,2,17,male,23.88946281,Normal,10,Moderate,1,1,1,1,8,Mild,0,0,0,32,1
+428,2,14,male,26.98961938,Overweight,5,Mild,0,0,0,0,5,Mild,0,0,0,6,0
+429,2,17,male,19.57168128,Normal,7,Mild,0,0,0,0,12,Moderate,1,0,0,14,1
+430,2,16,male,23.26869806,Normal,9,Mild,0,0,0,0,4,None-minimal,0,0,0,0,0
+431,2,17,female,23.7332384,Normal,7,Mild,0,0,0,0,13,Moderate,1,0,0,12,1
+432,2,17,female,21.67125803,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,3,0
+433,2,15,female,23.4375,Normal,6,Mild,0,0,1,1,10,Moderate,1,1,1,9,0
+434,2,18,female,21.70792339,Normal,6,Mild,0,0,0,0,14,Moderate,1,1,1,3,0
+435,2,16,male,23.183391,Normal,6,Mild,0,0,0,0,1,None-minimal,0,0,0,2,0
+436,2,14,male,26.2345679,Overweight,8,Mild,0,0,0,1,6,Mild,0,0,0,0,0
+437,2,17,male,20.19946976,Normal,8,Mild,0,0,0,0,7,Mild,0,0,0,10,1
+438,2,18,female,22.65625,Normal,4,None-minimal,0,0,0,0,3,None-minimal,0,0,0,9,0
+439,2,16,male,26.2345679,Overweight,10,Moderate,1,0,0,0,9,Mild,0,0,0,NA,NA
+440,2,14,male,25.33500198,Overweight,7,Mild,1,1,0,0,13,Moderate,1,0,0,20,1
+441,2,18,female,22.20633069,Normal,6,Mild,0,0,0,0,4,None-minimal,0,0,0,5,0
+442,2,17,female,19.23356075,Normal,8,Mild,0,0,0,0,11,Moderate,1,0,1,8,0
+443,2,14,male,20.0617284,Normal,3,None-minimal,0,0,0,0,1,None-minimal,0,0,0,4,0
+444,2,15,female,20.07733492,Normal,4,None-minimal,0,0,0,0,5,Mild,0,0,0,4,0
+445,2,14,male,25.2493372,Overweight,0,none,0,0,0,0,1,None-minimal,0,0,0,4,0
+446,2,17,female,22.65625,Normal,7,Mild,1,1,1,1,12,Moderate,1,1,1,3,0
+447,2,14,male,22.47120876,Normal,7,Mild,0,0,0,0,1,None-minimal,0,0,0,0,0
+448,2,14,male,21.44756785,Normal,8,Mild,0,0,0,0,1,None-minimal,0,0,0,5,0
+449,2,17,female,22.72333795,Normal,12,Moderate,1,0,0,0,14,Moderate,1,0,0,8,0
+450,2,18,female,28.3446712,Overweight,10,Moderate,1,0,0,0,7,Mild,0,0,0,5,0
+451,2,15,male,26.98961938,Overweight,7,Mild,1,1,0,0,10,Moderate,1,0,0,11,1
+452,2,18,male,26.44628099,Overweight,3,None-minimal,0,0,0,NA,0,0,NA,NA,NA,NA,NA
+453,2,18,male,19.94321255,Normal,8,Mild,0,0,0,0,1,None-minimal,0,0,0,2,0
+454,2,14,male,24.25867407,Normal,7,Mild,0,0,0,0,3,None-minimal,0,0,0,11,1
+455,2,16,male,29.0687733,Overweight,12,Moderate,1,0,0,0,3,None-minimal,0,0,0,5,0
+456,2,16,female,22.03172568,Normal,4,None-minimal,0,0,0,0,3,None-minimal,0,0,0,10,1
+457,2,15,female,22.64737696,Normal,5,Mild,0,0,0,0,6,Mild,0,0,0,10,1
+458,2,14,female,22.86253448,Normal,8,Mild,0,0,0,0,14,Moderate,1,0,0,12,1
+459,2,16,male,26.88172043,Overweight,8,Mild,0,0,0,0,7,Mild,0,0,0,10,1
+460,2,14,male,22.72440348,Normal,8,Mild,0,0,0,0,6,Mild,0,0,0,9,0
+461,2,17,female,19.37716263,Normal,9,Mild,0,0,0,0,9,Mild,0,0,0,1,0
+462,2,14,male,22.99168975,Normal,3,None-minimal,0,0,0,0,8,Mild,0,0,0,6,0
+463,2,18,female,22.18934911,Normal,6,Mild,0,0,0,0,6,Mild,0,0,0,3,0
+464,2,16,male,21.15885417,Normal,17,Moderately severe,1,1,0,0,21,Severe,1,0,0,8,0
+465,2,16,male,22.64737696,Normal,6,Mild,0,0,0,0,5,Mild,0,0,0,9,0
+466,2,18,female,20.19509221,Normal,1,None-minimal,0,0,0,0,5,Mild,0,0,0,9,0
+467,2,18,female,29.51593861,Overweight,5,Mild,0,0,0,0,2,None-minimal,0,0,0,3,0
+468,3,17,female,23.42355741,Normal,13,Moderate,1,0,0,0,11,Moderate,1,0,0,8,0
+469,3,14,male,20.70081674,Normal,5,Mild,0,0,0,0,4,None-minimal,0,0,0,1,0
+470,3,16,male,24.21229339,Normal,5,Mild,0,0,0,0,4,None-minimal,0,0,0,2,0
+471,3,17,female,21.64412071,Normal,2,None-minimal,0,0,0,0,2,None-minimal,0,0,0,9,0
+472,3,14,female,17.63085399,Underweight,8,Mild,0,0,0,0,9,Mild,0,0,0,8,0
+473,3,17,female,19.1953028,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,2,0
+474,3,15,female,20.32443826,Normal,13,Moderate,1,0,0,0,5,Mild,0,0,0,4,0
+475,3,14,female,25.29937595,Overweight,16,Moderately severe,1,1,0,0,15,Severe,1,0,0,8,0
+476,3,14,male,24.48979592,Normal,14,Moderate,1,0,0,0,9,Mild,0,1,1,5,0
+477,3,18,female,25.390625,Overweight,3,None-minimal,0,0,0,0,8,Mild,0,0,0,3,0
+478,3,18,female,23.4375,Normal,9,Mild,0,0,0,0,8,Mild,0,0,0,4,0
+479,3,16,female,23.42209073,Normal,5,Mild,0,0,0,0,9,Mild,0,0,0,7,0
+480,3,17,female,22.76943835,Normal,8,Mild,0,0,0,0,11,Moderate,1,0,0,9,0
+481,3,17,male,30.02659498,Class I Obesity,12,Moderate,1,0,0,0,11,Moderate,1,0,0,5,0
+482,3,15,male,25.59220998,Overweight,4,None-minimal,0,0,0,0,1,None-minimal,0,0,0,2,0
+483,3,18,female,19.31295201,Normal,12,Moderate,1,0,0,0,5,Mild,0,0,0,11,1
+484,3,16,female,28.60476495,Overweight,7,Mild,0,0,0,0,8,Mild,0,0,0,5,0
+485,3,17,male,21.91358025,Normal,10,Moderate,1,0,0,0,6,Mild,0,0,0,6,0
+486,3,14,male,18.36547291,Underweight,8,Mild,0,0,0,0,5,Mild,0,0,0,7,0
+487,3,18,female,19.72103697,Normal,13,Moderate,1,0,0,0,10,Moderate,1,0,0,3,0
+488,3,18,male,23.66143862,Normal,7,Mild,0,0,0,0,4,None-minimal,0,1,1,5,0
+489,3,16,female,28.40054796,Overweight,4,None-minimal,0,0,1,1,4,None-minimal,0,1,1,2,0
+490,3,15,female,19.9609375,Normal,2,None-minimal,0,0,0,0,3,None-minimal,0,0,0,8,0
+491,3,15,male,20.52892163,Normal,2,None-minimal,0,0,0,0,4,None-minimal,0,0,0,8,0
+492,3,17,male,23.38868656,Normal,8,Mild,0,0,0,0,2,None-minimal,0,0,0,3,0
+493,3,15,female,18.90359168,Normal,2,None-minimal,0,0,0,0,4,None-minimal,0,0,0,7,0
+494,3,17,male,23.93898977,Normal,4,None-minimal,0,0,0,0,3,None-minimal,0,0,0,1,0
+495,3,14,male,24.85795455,Normal,2,None-minimal,0,0,0,0,3,None-minimal,0,0,0,3,0
+496,3,14,male,23.93948099,Normal,5,Mild,0,0,0,0,7,Mild,0,0,0,8,0
+497,3,16,male,26.82742078,Overweight,6,Mild,0,0,0,0,11,Moderate,1,0,0,3,0
+498,3,18,female,20.14797199,Normal,2,None-minimal,0,0,0,0,4,None-minimal,0,1,1,15,1
+499,3,16,male,19.75308642,Normal,3,None-minimal,0,0,0,0,3,None-minimal,0,0,0,6,0
+500,3,16,female,22.58270917,Normal,1,None-minimal,0,0,0,0,3,None-minimal,0,0,0,3,0
+501,3,15,female,20.05385488,Normal,6,Mild,0,0,0,0,4,None-minimal,0,0,0,6,0
+502,3,18,male,22.5981405,Normal,3,None-minimal,0,0,0,0,1,None-minimal,0,0,0,6,0
+503,3,18,male,23.80869017,Normal,5,Mild,0,0,0,0,2,None-minimal,0,0,0,2,0
+504,3,17,male,22.46003435,Normal,4,None-minimal,0,0,0,0,6,Mild,0,0,0,9,0
+505,3,16,male,28.94612476,Overweight,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,6,0
+506,3,14,male,29.3523545,Overweight,10,Moderate,1,1,0,0,9,Mild,0,0,0,13,1
+507,3,15,female,20.54988662,Normal,9,Mild,0,0,0,0,2,None-minimal,0,0,0,4,0
+508,3,17,female,19.84126984,Normal,10,Moderate,1,0,0,0,11,Moderate,1,0,0,13,1
+509,3,14,male,27.44059917,Overweight,0,none,0,0,0,0,1,None-minimal,0,0,0,0,0
+510,3,15,male,22.5981405,Normal,14,Moderate,1,0,0,0,7,Mild,0,0,0,8,0
+511,3,15,male,24.22145329,Normal,2,None-minimal,0,0,0,0,3,None-minimal,0,0,0,4,0
+512,3,16,male,33.56401384,Class I Obesity,9,Mild,0,0,0,0,8,Mild,0,0,0,4,0
+513,3,14,female,24.97704316,Normal,13,Moderate,1,0,0,0,17,Severe,1,0,0,2,0
+514,3,17,male,26.06167931,Overweight,6,Mild,0,0,0,0,2,None-minimal,0,0,0,2,0
+515,3,14,female,20.66115702,Normal,4,None-minimal,0,0,0,0,5,Mild,0,0,0,3,0
+516,3,14,female,19.67625461,Normal,3,None-minimal,0,0,0,0,5,Mild,0,0,0,6,0
+517,3,14,male,21.61281179,Normal,7,Mild,0,0,0,0,8,Mild,0,0,0,5,0
+518,3,16,male,21.79930796,Normal,0,none,0,0,0,0,0,None-minimal,0,0,0,1,0
+519,3,15,female,14.88095238,Underweight,11,Moderate,1,0,0,0,13,Moderate,1,0,0,5,0
+520,3,14,male,24.16326531,Normal,8,Mild,0,0,0,0,8,Mild,0,0,0,3,0
+521,3,18,male,21.0498179,Normal,20,Severe,1,0,0,0,15,Severe,1,1,1,1,0
+522,3,16,male,20.0617284,Normal,5,Mild,0,0,0,0,2,None-minimal,0,0,0,5,0
+523,3,17,male,22.85714286,Normal,2,None-minimal,0,0,0,0,0,None-minimal,0,0,0,7,0
+524,3,14,female,21.30394858,Normal,9,Mild,1,1,1,0,8,Mild,0,0,0,7,0
+525,3,14,male,22.67573696,Normal,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,7,0
+526,3,18,female,0,Not Availble,4,None-minimal,0,0,0,0,0,None-minimal,0,0,0,8,0
+527,3,18,female,25.91068435,Overweight,5,Mild,0,0,0,0,4,None-minimal,0,0,0,2,0
+528,3,17,male,21.51385851,Normal,12,Moderate,1,0,1,0,16,Severe,1,1,0,2,0
+529,3,15,female,18.96192742,Normal,1,None-minimal,0,0,0,0,2,None-minimal,0,0,0,5,0
+530,3,16,female,32.02036958,Class I Obesity,3,None-minimal,0,0,0,0,0,None-minimal,0,0,0,5,0
+531,3,15,male,26.52851035,Overweight,0,none,0,0,0,0,0,None-minimal,0,0,0,3,0
+532,3,14,male,26.51180407,Overweight,7,Mild,0,0,0,0,11,Moderate,1,0,0,1,0
+533,3,15,female,21.08281329,Normal,7,Mild,0,0,0,0,10,Moderate,1,0,0,3,0
+534,3,15,female,21.93634741,Normal,14,Moderate,1,0,0,0,17,Severe,1,0,0,9,0
+535,3,18,female,28.30385016,Overweight,11,Moderate,1,0,0,0,4,None-minimal,0,0,0,7,0
+536,3,15,male,25.2493372,Overweight,1,None-minimal,0,0,0,0,4,None-minimal,0,0,0,6,0
+537,3,15,male,21.20099137,Normal,0,NA,NA,NA,0,0,8,Mild,0,0,0,1,0
+538,3,18,male,21.63331531,Normal,7,Mild,0,0,0,0,5,Mild,0,0,0,2,0
+539,3,15,female,23.45856238,Normal,9,Mild,0,0,0,0,9,Mild,0,0,0,10,1
+540,3,14,female,25.15315023,Overweight,5,Mild,0,0,0,0,18,Severe,1,0,0,8,0
+541,3,15,female,21.77843524,Normal,5,Mild,0,0,0,0,5,Mild,0,0,0,0,0
+542,3,16,male,29.05328798,Overweight,0,none,0,0,0,0,1,None-minimal,0,0,0,4,0
+543,3,16,male,21.5349084,Normal,8,Mild,0,0,0,0,7,Mild,0,0,0,10,1
+544,3,14,female,21.97710718,Normal,5,Mild,0,0,1,1,2,None-minimal,0,1,1,1,0
+545,3,16,male,22.79032897,Normal,15,Moderately severe,1,0,1,1,14,Moderate,1,0,1,10,1
+546,3,15,male,28.40533756,Overweight,4,None-minimal,0,0,0,0,6,Mild,0,0,0,1,0
+547,3,14,female,23.4375,Normal,9,Mild,0,0,0,0,12,Moderate,1,0,0,10,1
+548,3,14,male,24.1516725,Normal,7,Mild,0,0,0,0,6,Mild,0,0,0,8,0
+549,3,17,female,23.14049587,Normal,14,Moderate,1,1,0,1,10,Moderate,1,1,1,7,0
+550,3,14,female,24.21875,Normal,5,Mild,0,0,0,0,3,None-minimal,0,0,0,8,0
+551,3,15,male,25.60553633,Overweight,15,Moderately severe,1,1,0,0,10,Moderate,1,0,1,8,0
+552,3,15,female,23.11111111,Normal,5,Mild,0,0,0,0,5,Mild,0,0,0,NA,NA
+553,3,18,female,23.93948099,Normal,7,Mild,0,0,0,0,3,None-minimal,0,0,0,4,0
+554,3,17,female,19.23356075,Normal,12,Moderate,1,0,0,0,8,Mild,0,0,0,11,1
+555,3,15,male,25.82644628,Overweight,9,Mild,0,0,0,0,7,Mild,0,0,0,3,0
+556,3,18,female,0,Not Availble,4,None-minimal,0,0,1,1,4,None-minimal,0,1,1,2,0
+557,3,16,female,19.94805977,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,10,1
+558,3,14,female,21.484375,Normal,3,None-minimal,0,0,0,0,2,None-minimal,0,0,0,4,0
+559,3,18,male,25.59220998,Overweight,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,5,0
+560,3,14,female,24.97704316,Normal,6,Mild,0,0,0,0,2,None-minimal,0,0,0,7,0
+561,3,15,female,27.76709812,Overweight,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,2,0
+562,3,14,male,20.47826661,Normal,6,Mild,0,0,0,0,7,Mild,0,0,0,13,1
+563,3,14,female,28.125,Overweight,6,Mild,0,0,0,0,6,Mild,0,0,0,6,0
+564,3,16,female,22.86236854,Normal,0,none,0,0,0,0,0,None-minimal,0,0,0,0,0
+565,3,16,male,21.30394858,Normal,5,Mild,0,0,0,0,11,Moderate,1,0,0,5,0
+566,3,18,male,24.05693475,Normal,0,none,0,0,0,0,0,None-minimal,0,0,0,7,0
+567,3,15,female,23.7332384,Normal,8,Mild,0,0,0,0,6,Mild,0,0,0,7,0
+568,3,18,female,27.11111111,Overweight,4,None-minimal,0,0,0,0,10,Moderate,1,0,0,7,0
+569,3,17,female,25.91068435,Overweight,8,Mild,0,0,0,0,3,None-minimal,0,0,0,3,0
+570,3,16,female,25.78125,Overweight,6,Mild,0,0,0,0,3,None-minimal,0,0,0,4,0
+571,3,18,female,23.55555556,Normal,3,None-minimal,0,0,0,0,0,None-minimal,0,0,0,3,0
+572,3,18,female,21.70792339,Normal,11,Moderate,1,1,0,0,14,Moderate,1,0,0,3,0
+573,3,14,male,26.70362358,Overweight,4,None-minimal,0,0,0,0,1,None-minimal,0,0,0,9,0
+574,3,14,male,28.07504294,Overweight,1,None-minimal,0,0,0,0,3,None-minimal,0,0,0,10,1
+575,3,18,male,24.69135802,Normal,9,Mild,1,1,0,0,7,Mild,0,0,0,1,0
+576,3,17,male,21.91358025,Normal,1,None-minimal,0,0,0,0,4,None-minimal,0,1,0,4,0
+577,3,17,female,20.76124567,Normal,7,Mild,0,0,0,0,11,Moderate,1,0,0,13,1
+578,3,17,female,27.40765728,Overweight,3,None-minimal,0,0,0,0,5,Mild,0,0,0,9,0
+579,3,17,female,15.97881665,Underweight,5,Mild,0,0,0,0,7,Mild,0,0,0,6,0
+580,3,16,male,18.9370029,Normal,3,None-minimal,0,0,0,0,10,Moderate,1,0,0,0,0
+581,3,15,male,20.54988662,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,2,0
+582,3,15,male,23.73866213,Normal,11,Moderate,1,1,0,0,10,Moderate,1,0,0,5,0
+583,3,15,female,20.71569381,Normal,11,Moderate,1,0,0,0,3,None-minimal,0,0,0,9,0
+584,3,16,male,26.82742078,Overweight,2,None-minimal,0,0,0,0,2,None-minimal,0,0,0,5,0
+585,3,16,female,18.49112426,Underweight,5,Mild,0,0,0,0,8,Mild,0,0,0,7,0
+586,3,18,male,27.4716889,Overweight,1,None-minimal,0,0,0,0,2,None-minimal,0,0,0,9,0
+587,3,14,female,19.00711355,Normal,5,Mild,0,0,0,0,6,Mild,0,0,0,9,0
+588,3,17,female,21.88707637,Normal,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,4,0
+589,3,18,male,22.47120876,Normal,2,None-minimal,0,0,0,0,0,None-minimal,0,0,0,2,0
+590,3,16,male,26.36560303,Overweight,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,6,0
+591,3,14,female,24.97704316,Normal,5,Mild,0,0,0,0,6,Mild,0,0,0,12,1
+592,3,15,male,25.40170132,Overweight,9,Mild,0,0,0,0,7,Mild,0,0,0,11,1
+593,3,14,female,19.72386588,Normal,1,None-minimal,0,0,0,0,0,None-minimal,0,0,0,4,0
+594,3,17,female,26.6727633,Overweight,6,Mild,0,0,0,0,3,None-minimal,0,0,0,5,0
+595,3,14,female,18.64534404,Normal,10,Moderate,1,0,1,1,9,Mild,0,1,1,10,1
+596,3,14,male,24.25867407,Normal,7,Mild,0,0,0,0,5,Mild,0,0,0,1,0
+597,3,18,male,25.61728395,Overweight,3,None-minimal,0,0,0,0,6,Mild,0,0,0,4,0
+598,3,18,male,22.54595907,Normal,4,None-minimal,0,0,0,0,0,None-minimal,0,0,0,8,0
+599,3,18,male,28.07631929,Overweight,5,Mild,0,0,0,0,6,Mild,0,0,0,3,0
+600,3,18,male,23.10843458,Normal,1,None-minimal,0,0,0,0,4,None-minimal,0,0,0,3,0
+601,3,15,male,23.87511478,Normal,4,None-minimal,0,0,0,0,0,None-minimal,0,0,0,0,0
+602,3,16,female,24.48979592,Normal,3,None-minimal,0,0,0,0,4,None-minimal,0,1,1,6,0
+603,3,15,female,26.89767019,Overweight,9,Mild,1,1,0,0,7,Mild,0,1,0,7,0
+604,3,18,male,24.25867407,Normal,2,None-minimal,0,0,0,0,2,None-minimal,0,0,0,3,0
+605,3,18,female,25.47666009,Overweight,6,Mild,0,0,1,0,5,Mild,0,0,0,9,0
+606,3,18,female,27.63605442,Overweight,3,None-minimal,0,0,0,0,1,None-minimal,0,0,0,3,0
+607,3,17,female,17.96875,Underweight,9,Mild,0,0,1,1,5,Mild,0,1,1,9,0
+608,4,18,male,24.33747972,Normal,4,None-minimal,0,0,1,1,2,None-minimal,0,0,0,4,0
+609,4,14,female,22.265625,Normal,6,Mild,0,0,0,0,5,Mild,0,0,0,3,0
+610,4,16,female,22.27972457,Normal,8,Mild,0,0,0,0,8,Mild,0,0,0,7,0
+611,4,15,female,19.84126984,Normal,7,Mild,0,0,0,0,11,Moderate,1,0,0,9,0
+612,4,14,female,19.97918835,Normal,13,Moderate,1,0,0,0,13,Moderate,1,0,0,10,1
+613,4,16,male,27.76342975,Overweight,5,Mild,0,0,0,0,5,Mild,0,0,0,11,1
+614,4,18,female,23.23345618,Normal,7,Mild,0,0,0,0,4,None-minimal,0,0,0,6,0
+615,4,18,male,19.88385305,Normal,2,None-minimal,0,0,0,0,4,None-minimal,0,0,0,9,0
+616,4,15,female,21.22788762,Normal,7,Mild,0,0,0,0,8,Mild,0,0,0,10,1
+617,4,16,female,22.86236854,Normal,7,Mild,0,0,0,0,8,Mild,0,0,0,9,0
+618,4,16,female,19.46803397,Normal,9,Mild,0,0,0,0,6,Mild,0,0,0,6,0
+619,4,14,male,22.72440348,Normal,1,None-minimal,0,0,0,0,1,None-minimal,0,1,1,4,0
+620,4,17,female,21.21831719,Normal,7,Mild,0,0,0,0,7,Mild,0,0,0,3,0
+621,4,14,male,27.18089991,Overweight,4,None-minimal,0,0,0,0,7,Mild,0,0,0,1,0
+622,4,18,female,18.20664543,Underweight,3,None-minimal,0,0,0,0,1,None-minimal,0,0,0,5,0
+623,4,15,male,23.40750913,Normal,4,None-minimal,0,0,0,0,6,Mild,0,0,0,12,1
+624,4,18,female,23.05456246,Normal,11,Moderate,1,0,0,0,5,Mild,0,0,0,9,0
+625,4,17,female,18.21832243,Underweight,15,Moderately severe,1,0,1,0,16,Severe,1,0,1,16,1
+626,4,16,female,19.31295201,Normal,6,Mild,0,0,0,0,11,Moderate,1,0,0,7,0
+627,4,18,male,20.74755019,Normal,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,9,0
+628,4,14,male,24.50894577,Normal,3,None-minimal,0,0,0,0,5,Mild,0,0,0,2,0
+629,4,14,female,20.56932966,Normal,4,None-minimal,0,0,0,0,8,Mild,0,0,0,2,0
+630,4,16,male,25.2493372,Overweight,18,Moderately severe,1,0,1,1,14,Moderate,1,1,1,7,0
+631,4,15,female,22.14532872,Normal,12,Moderate,1,0,0,1,1,None-minimal,0,0,0,12,1
+632,4,18,female,19.48696145,Normal,3,None-minimal,0,0,0,0,5,Mild,0,0,0,11,1
+633,4,18,male,23.58983547,Normal,10,Moderate,1,0,0,0,6,Mild,0,0,0,1,0
+634,4,16,female,20.2812331,Normal,8,Mild,0,0,0,0,9,Mild,0,0,0,8,0
+635,4,18,female,24.45606342,Normal,0,none,0,0,0,0,0,None-minimal,0,0,0,0,0
+636,4,17,male,24.83564646,Normal,3,None-minimal,0,0,0,0,0,None-minimal,0,0,0,2,0
+637,4,14,male,23.7953599,Normal,8,Mild,0,0,0,0,7,Mild,0,0,0,11,1
+638,4,17,male,27.28174603,Overweight,2,None-minimal,0,0,0,0,0,None-minimal,0,0,0,6,0
+639,4,18,female,29.90302875,Overweight,7,Mild,0,0,0,0,3,None-minimal,0,0,0,14,1
+640,4,16,female,19.53125,Normal,8,Mild,0,0,0,0,8,Mild,0,0,0,6,0
+641,4,18,female,23.53304271,Normal,10,Moderate,1,0,1,0,9,Mild,0,1,0,9,0
+642,4,18,female,19.15708812,Normal,4,None-minimal,0,0,0,0,5,Mild,0,0,0,3,0
+643,4,16,male,22.49134948,Normal,10,Moderate,1,0,0,0,11,Moderate,1,0,0,12,1
+644,4,16,male,27.45865421,Overweight,7,Mild,0,0,0,0,2,None-minimal,0,0,0,8,0
+645,4,14,female,23.52941176,Normal,10,Moderate,1,0,0,0,6,Mild,0,0,0,7,0
+646,4,17,female,19.921875,Normal,12,Moderate,1,0,1,1,8,Mild,0,1,0,3,0
+647,4,18,female,21.3577956,Normal,5,Mild,0,0,1,1,4,None-minimal,0,0,0,14,1
+648,4,16,male,23.38868656,Normal,0,none,0,0,0,0,0,None-minimal,0,0,0,2,0
+649,4,15,female,0,Not Availble,11,Moderate,1,0,1,1,6,Mild,0,1,1,10,1
+650,4,18,male,28.04281659,Overweight,3,None-minimal,0,0,0,0,5,Mild,0,0,0,4,0
+651,4,18,female,18.33910035,Underweight,5,Mild,0,0,0,0,6,Mild,0,0,0,7,0
+652,4,14,female,22.43230252,Normal,3,None-minimal,0,0,0,0,0,None-minimal,0,1,1,5,0
+653,4,16,female,27.51338489,Overweight,7,Mild,0,0,0,0,9,Mild,0,0,0,4,0
+654,4,16,female,18.59012493,Normal,5,Mild,0,0,0,0,4,None-minimal,0,0,0,7,0
+655,4,17,male,25.51020408,Overweight,11,Moderate,1,0,0,0,7,Mild,0,0,0,8,0
+656,4,18,female,19.1953028,Normal,5,Mild,0,0,0,0,5,Mild,0,0,0,8,0
+657,4,17,female,20.9572742,Normal,7,Mild,0,0,1,1,11,Moderate,1,1,1,12,1
+658,4,17,male,24.41927902,Normal,2,None-minimal,0,0,0,0,1,None-minimal,0,0,0,6,0
+659,4,14,male,25.94548396,Overweight,2,None-minimal,0,0,0,0,2,None-minimal,0,0,0,8,0
+660,4,18,female,29.73390041,Overweight,6,Mild,0,0,0,0,3,None-minimal,0,0,0,9,0
+661,4,17,male,24.11150746,Normal,9,Mild,0,0,0,0,10,Moderate,1,0,0,3,0
+662,4,18,male,26.12244898,Overweight,13,Moderate,1,0,1,0,11,Moderate,1,1,1,2,0
+663,4,15,male,19.0194421,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,5,0
+664,4,17,male,28.03792346,Overweight,6,Mild,0,0,0,0,8,Mild,0,0,0,10,1
+665,4,14,male,18.39067451,Underweight,7,Mild,0,0,0,0,7,Mild,0,0,0,0,0
+666,4,16,male,19.48696145,Normal,0,none,0,0,1,1,0,None-minimal,0,0,0,4,0
+667,4,18,female,24.91990032,Normal,6,Mild,0,0,0,0,5,Mild,0,0,0,7,0
+668,4,18,female,23.71184463,Normal,9,Mild,0,0,0,0,8,Mild,0,0,0,10,1
+669,4,18,female,18.42403628,Underweight,1,None-minimal,0,0,0,0,3,None-minimal,0,0,0,4,0
+670,4,17,female,27.23922448,Overweight,7,Mild,1,1,0,0,10,Moderate,1,0,0,5,0
+671,4,15,female,25.21735858,Overweight,15,Moderately severe,1,0,0,0,16,Severe,1,0,0,10,1
+672,4,18,female,21.50188649,Normal,0,none,0,0,0,0,2,None-minimal,0,0,0,1,0
+673,4,15,male,24.91349481,Normal,3,None-minimal,0,0,0,0,7,Mild,0,0,0,3,0
+674,4,17,female,23.38435374,Normal,8,Mild,0,0,0,0,9,Mild,0,1,0,11,1
+675,4,14,female,22.98539751,Normal,3,None-minimal,0,0,1,1,1,None-minimal,0,0,0,4,0
+676,4,18,female,24.8357635,Normal,5,Mild,0,0,0,0,5,Mild,0,0,0,3,0
+677,4,16,female,26.29172382,Overweight,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,9,0
+678,4,14,female,21.23057202,Normal,8,Mild,0,0,0,0,6,Mild,0,0,0,9,0
+679,4,17,female,24.21875,Normal,5,Mild,0,0,0,0,8,Mild,0,0,0,4,0
+680,4,15,male,26.98961938,Overweight,5,Mild,0,0,0,0,5,Mild,0,0,0,4,0
+681,4,15,female,32.03125,Class I Obesity,17,Moderately severe,1,1,1,0,13,Moderate,1,1,0,5,0
+682,4,18,male,27.63605442,Overweight,12,Moderate,1,0,0,0,7,Mild,0,0,0,9,0
+683,4,18,male,28.65013774,Overweight,3,None-minimal,0,0,0,0,2,None-minimal,0,0,0,2,0
+684,4,16,male,19.81767737,Normal,5,Mild,0,0,0,0,5,Mild,0,0,0,7,0
+685,4,17,female,22.83737024,Normal,1,None-minimal,0,0,0,0,0,None-minimal,0,0,0,6,0
+686,4,15,male,23.1206236,Normal,17,Moderately severe,1,1,0,0,12,Moderate,1,0,0,9,0
+687,4,14,female,24.38652644,Normal,9,Mild,0,0,0,0,10,Moderate,1,0,0,6,0
+688,4,15,female,22.86236854,Normal,8,Mild,0,0,0,0,9,Mild,0,0,0,5,0
+689,4,14,female,23.23345618,Normal,8,Mild,0,0,0,0,14,Moderate,1,0,0,11,1
+690,4,15,female,22.05170497,Normal,14,Moderate,1,0,0,0,11,Moderate,1,0,0,10,1
+691,4,18,female,22.72043837,Normal,11,Moderate,1,0,0,0,16,Severe,1,0,0,2,0
+692,4,16,male,22.83950617,Normal,4,None-minimal,0,0,0,0,5,Mild,0,0,0,5,0
+693,4,15,male,25.46938776,Overweight,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,4,0
+694,4,14,male,23.58983547,Normal,7,Mild,0,0,0,0,9,Mild,0,0,0,9,0
+695,4,16,female,19.57168128,Normal,10,Moderate,1,0,0,0,17,Severe,1,0,0,6,0
+696,4,17,female,19.97918835,Normal,8,Mild,0,0,0,0,8,Mild,0,0,0,3,0
+697,4,18,female,27.54820937,Overweight,8,Mild,0,0,0,0,9,Mild,0,0,0,5,0
+698,4,17,female,20.06095444,Normal,4,None-minimal,0,0,0,0,1,None-minimal,0,0,0,2,0
+699,4,17,female,17.7154195,Underweight,10,Moderate,1,0,0,0,6,Mild,0,0,0,2,0
+700,4,15,male,24.85907356,Normal,13,Moderate,1,0,0,0,8,Mild,0,0,0,11,1
+701,4,17,male,21.5349084,Normal,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,4,0
+702,4,16,female,19.94805977,Normal,6,Mild,0,0,NA,NA,0,0,NA,NA,0,4,0
+703,4,14,male,26.57589059,Overweight,2,None-minimal,0,0,0,0,0,None-minimal,0,0,0,8,0
+704,4,16,male,23.14814815,Normal,5,Mild,0,0,0,0,4,None-minimal,0,0,0,0,0
+705,4,15,male,29.0687733,Overweight,4,None-minimal,0,0,0,0,5,Mild,0,0,0,2,0
+706,4,15,male,28.73174689,Overweight,8,Mild,0,0,0,0,4,None-minimal,0,0,0,6,0
+707,4,17,female,21.85223725,Normal,8,Mild,0,0,0,0,6,Mild,0,0,0,18,1
+708,4,18,female,29.38467611,Overweight,7,Mild,0,0,0,0,6,Mild,0,0,0,6,0
+709,4,15,female,25.25951557,Overweight,11,Moderate,1,0,0,0,8,Mild,0,0,0,16,1
+710,4,16,female,16.61326688,Underweight,6,Mild,0,0,0,0,8,Mild,0,1,0,2,0
+711,4,14,male,26.30943113,Overweight,10,Moderate,1,0,0,0,12,Moderate,1,0,0,6,0
+712,4,14,male,26.06167931,Overweight,2,None-minimal,0,0,0,0,2,None-minimal,0,0,0,2,0
+713,4,14,male,24.22145329,Normal,2,None-minimal,0,0,0,0,0,None-minimal,0,0,0,6,0
+714,4,18,male,22.03856749,Normal,3,None-minimal,0,0,0,0,5,Mild,0,0,0,8,0
+715,4,18,male,21.84700852,Normal,8,Mild,1,1,0,0,5,Mild,0,0,0,5,0
+716,4,16,male,25.82644628,Overweight,4,None-minimal,0,0,0,0,6,Mild,0,0,0,4,0
+717,4,17,female,26.953125,Overweight,13,Moderate,1,0,1,0,9,Mild,0,0,0,12,1
+718,4,16,female,24.03460984,Normal,14,Moderate,1,0,0,0,8,Mild,0,0,0,4,0
+719,4,14,female,25.88757396,Overweight,6,Mild,0,0,0,0,7,Mild,0,0,0,2,0
+720,4,14,male,23.7654321,Normal,4,None-minimal,0,0,0,0,8,Mild,0,0,0,1,0
+721,4,16,male,24.22145329,Normal,10,Moderate,1,0,1,0,2,None-minimal,0,1,1,4,0
+722,4,17,female,23.61275089,Normal,9,Mild,0,0,0,0,7,Mild,0,0,0,9,0
+723,4,18,female,24.02380867,Normal,13,Moderate,1,1,0,0,9,Mild,0,0,0,10,1
+724,4,18,female,22.58270917,Normal,6,Mild,0,0,0,0,6,Mild,0,0,0,4,0
+725,4,18,male,22.77318641,Normal,15,Moderately severe,1,1,1,1,21,Severe,1,1,1,13,1
+726,4,14,female,24.43518667,Normal,18,Moderately severe,1,0,0,0,7,Mild,0,0,0,9,0
+727,4,14,male,24.03170937,Normal,4,None-minimal,0,0,0,0,0,None-minimal,0,0,0,6,0
+728,4,17,male,24.16326531,Normal,6,Mild,0,0,0,0,6,Mild,0,0,0,5,0
+729,4,18,male,26.85185185,Overweight,11,Moderate,1,0,0,0,7,Mild,0,0,0,8,0
+730,4,18,male,25.66115203,Overweight,10,Moderate,1,0,0,0,3,None-minimal,0,0,0,10,1
+731,4,14,female,22.58270917,Normal,4,None-minimal,0,0,0,0,6,Mild,0,0,0,6,0
+732,4,14,female,23.01117686,Normal,3,None-minimal,0,0,0,0,6,Mild,0,0,0,7,0
+733,4,17,female,21.2585034,Normal,5,Mild,0,0,0,0,3,None-minimal,0,0,0,5,0
+734,4,17,male,23.78121284,Normal,5,Mild,0,0,0,0,5,Mild,0,0,0,7,0
+735,4,15,female,22.7189744,Normal,3,None-minimal,0,0,0,0,5,Mild,0,0,0,5,0
+736,4,18,male,21.85727788,Normal,3,None-minimal,0,0,0,0,1,None-minimal,0,0,0,4,0
+737,4,16,female,31.60321237,Class I Obesity,5,Mild,0,0,0,0,2,None-minimal,0,0,0,9,0
+738,4,18,female,24.55775234,Normal,4,None-minimal,0,0,1,0,13,Moderate,1,1,1,4,0
+739,4,17,male,25.2493372,Overweight,4,None-minimal,1,1,0,0,2,None-minimal,0,0,0,4,0
+740,4,14,male,24.67550027,Normal,16,Moderately severe,1,1,1,1,13,Moderate,1,1,1,9,0
+741,4,14,male,24.22022684,Normal,2,None-minimal,0,0,0,0,4,None-minimal,0,0,0,6,0
+742,4,14,male,25.61728395,Overweight,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,5,0
+743,4,18,male,24.69135802,Normal,5,Mild,0,0,0,0,8,Mild,0,0,0,3,0
+744,4,15,female,21.71925011,Normal,0,none,0,0,0,0,0,None-minimal,0,0,0,4,0
+745,4,15,male,23.59700421,Normal,7,Mild,0,0,0,0,7,Mild,0,0,0,9,0
+746,4,15,female,19.72318339,Normal,3,None-minimal,0,0,0,0,3,None-minimal,0,0,0,1,0
+747,4,15,female,22.23098713,Normal,5,Mild,0,0,0,0,5,Mild,0,0,0,5,0
+748,4,16,male,27.16049383,Overweight,0,none,0,0,0,0,1,None-minimal,0,0,0,6,0
+749,4,17,female,23.7332384,Normal,15,Moderately severe,1,1,1,1,17,Severe,1,0,0,19,1
+750,4,15,male,28.40533756,Overweight,4,None-minimal,0,0,0,0,6,Mild,0,0,0,2,0
+751,4,18,male,21.10726644,Normal,1,None-minimal,0,0,0,0,6,Mild,0,0,0,5,0
+752,4,16,female,23.1206236,Normal,1,None-minimal,0,0,0,0,4,None-minimal,0,0,0,0,0
+753,4,14,female,20.81165453,Normal,1,None-minimal,0,0,0,0,3,None-minimal,0,0,0,3,0
+754,4,15,female,24.87771968,Normal,6,Mild,0,0,0,0,0,None-minimal,0,0,0,5,0
+755,4,17,female,25.71166208,Overweight,9,Mild,0,0,0,0,16,Severe,1,1,0,2,0
+756,4,15,male,29.05475207,Overweight,6,Mild,0,0,0,0,6,Mild,0,0,0,6,0
+757,4,14,male,26.2345679,Overweight,4,None-minimal,0,0,0,0,1,None-minimal,0,0,0,5,0
+758,4,16,female,18.73278237,Normal,6,Mild,0,0,0,0,6,Mild,0,0,0,4,0
+759,4,16,female,23.93606231,Normal,5,Mild,0,0,0,0,5,Mild,0,0,0,4,0
+760,4,18,female,28.08163265,Overweight,11,Moderate,1,0,0,0,7,Mild,0,0,0,9,0
+761,4,17,female,24.91990032,Normal,24,Severe,1,1,0,0,21,Severe,1,0,0,19,1
+762,4,17,female,31.3364378,Class I Obesity,8,Mild,0,0,0,0,13,Moderate,1,0,0,10,1
+763,4,17,male,22.46003435,Normal,4,None-minimal,0,0,0,0,4,None-minimal,0,0,0,0,0
+764,4,18,male,23.14814815,Normal,3,None-minimal,0,0,0,0,7,Mild,0,0,0,6,0
+765,4,14,male,28.37370242,Overweight,9,Mild,0,0,1,1,12,Moderate,1,0,0,12,1
+766,4,15,male,17.05617651,Underweight,7,Mild,0,0,0,0,4,None-minimal,0,0,0,6,0
+767,4,18,female,28.08626033,Overweight,3,None-minimal,0,0,0,0,4,None-minimal,0,0,0,3,0
+768,4,17,female,25.29937595,Overweight,9,Mild,0,0,0,0,9,Mild,0,0,0,8,0
+769,4,14,female,26.14268848,Overweight,13,Moderate,1,0,1,1,7,Mild,0,0,0,3,0
+770,4,15,male,27.77031264,Overweight,8,Mild,0,0,0,0,2,None-minimal,0,0,0,5,0
+771,4,17,male,27.17310162,Overweight,7,Mild,0,0,0,0,1,None-minimal,0,0,0,5,0
+772,4,16,female,22.03856749,Normal,6,Mild,0,0,0,0,5,Mild,0,0,0,3,0
+773,4,17,male,22.47120876,Normal,5,Mild,0,0,0,0,7,Mild,0,0,0,9,0
+774,4,16,female,18.06616734,Underweight,4,None-minimal,0,0,0,0,6,Mild,0,0,0,4,0
+775,4,18,female,20.2020202,Normal,2,None-minimal,0,0,0,0,4,None-minimal,0,0,0,4,0
+776,4,16,male,26.21882086,Overweight,5,Mild,0,0,0,0,8,Mild,0,0,0,1,0
+777,4,18,male,28.40818411,Overweight,1,None-minimal,0,0,0,0,1,None-minimal,0,0,0,3,0
+778,4,16,male,25.72755521,Overweight,6,Mild,0,0,0,0,4,None-minimal,0,0,0,9,0
+779,4,15,female,21.09619051,Normal,6,Mild,0,0,0,0,1,None-minimal,0,0,0,3,0
+780,4,18,male,25.30864198,Overweight,4,None-minimal,0,0,0,0,6,Mild,0,0,0,3,0
+781,4,16,male,22.72043837,Normal,2,None-minimal,0,0,0,0,5,Mild,0,0,0,4,0
+782,4,18,female,23.03316776,Normal,17,Moderately severe,1,0,0,0,19,Severe,1,0,0,15,1
+783,4,16,male,22.5981405,Normal,6,Mild,0,0,0,0,6,Mild,0,0,0,0,0
