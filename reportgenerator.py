@@ -37,7 +37,7 @@ if choice == "Upload":
         st.dataframe(df)
 
 if choice == "Report": 
-    st.title("Dataset Report")
+    st.title("Given Dataset Report")
     st.info("Scroll to find relevant dataset infographics")
     profile_df = df.profile_report()
     st_profile_report(profile_df)
