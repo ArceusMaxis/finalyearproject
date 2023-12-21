@@ -10,4 +10,4 @@ Modules:
 - [x] front end/ UI - bless streamlit fr fr
 - [ ] Automl (Core)
 - [ ] Data preprocessing (partially completed in report gen)
-- [ ] CVES Module (planning to integrate in automl module and report gen module)
+- [ ] CVES Module (planning to integrate in automl module and report gen module).

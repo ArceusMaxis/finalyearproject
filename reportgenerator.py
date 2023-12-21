@@ -9,6 +9,8 @@ import pandas as pd
 from streamlit_pandas_profiling import st_profile_report
 import os 
 
+filenameholder = " "
+
 if os.path.exists('./dataset.csv'): 
     df = pd.read_csv('dataset.csv', index_col=None)
 
@@ -27,8 +29,11 @@ if choice == "Upload":
     st.title("Upload Your Dataset")
     file = st.file_uploader("Upload Your Dataset")
     if file: 
+        filename = file.name
+        filename = "".join(char if char.isalnum() else "_" for char in filename)
+        filenameholder = filename
         df = pd.read_csv(file, index_col=None)
-        df.to_csv('dataset.csv', index=None)
+        df.to_csv(filename + ".csv", index=None)
         st.dataframe(df)
 
 if choice == "Report": 
@@ -37,9 +42,7 @@ if choice == "Report":
     profile_df = df.profile_report()
     st_profile_report(profile_df)
     export = profile_df.to_html()
-    st.download_button(label="Export Report (HTML)", data=export, file_name='report.html')
-
-    
+    st.download_button(label="Export Report (HTML)", data=export, file_name= filenameholder + "report.html")
 
 
 
